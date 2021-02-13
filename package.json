@@ -1,0 +1,20 @@
+{
+  "name": "acme-people-places-things",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keriweiss/acme-people-places-things.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keriweiss/acme-people-places-things/issues"
+  },
+  "homepage": "https://github.com/keriweiss/acme-people-places-things#readme"
+}
